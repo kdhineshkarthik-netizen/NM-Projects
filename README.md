@@ -32,7 +32,7 @@ Backend: Node.js
 Validation: JavaScript (client-side)
 
 Project Structure
-IBM-NJ-Client-Side-Validation/
+NM-Project/
 │
 ├─ server.js           # Node.js server
 ├─ index.html          # Main HTML form
