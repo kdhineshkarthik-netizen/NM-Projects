@@ -1,6 +1,6 @@
 IBM Node.js Client-Side Validation Project
 
-Author: S. Balamurugan
+Author: Dhineshkarthik K.B
 College: A.V.C College of Engineering
 
 Project Overview
