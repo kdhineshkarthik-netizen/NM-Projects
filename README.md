@@ -1,4 +1,4 @@
-IBM Node.js Client-Side Validation Project
+IBM Node.js Client-Side form Validation Project
 
 Author: Dhineshkarthik K.B
 College: A.V.C College of Engineering
@@ -44,7 +44,7 @@ How to Run Locally
 
 Clone the repository:
 
-git clone https://github.com/Balamurugan200526/NM-Project.git
+git clone https://github.com/kdhineshkarthik-netizen/NM-Projects.git
 
 
 Navigate to the project folder:
